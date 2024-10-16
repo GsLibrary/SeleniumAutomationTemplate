@@ -8,7 +8,7 @@ echo.
 cls
 echo [Selenium] Press Any Key To Stop The script.
 echo.
-start /b node server.js
+start /b python main.py
 pause > nul
 echo.
 taskkill /f /im node.exe

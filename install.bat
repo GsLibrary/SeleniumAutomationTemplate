@@ -4,7 +4,7 @@
 title GsLibrary Selenium Automation Template - File Installation
 echo Installing required files...
 
-pip install undetected-chromedriver==2.1.1
+pip install undetected-chromedriver==3.5.5
 
 echo Files installed.
 timeout 3 >nul
