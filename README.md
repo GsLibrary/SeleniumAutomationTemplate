@@ -1,2 +1,19 @@
-# SeleniumAutomationTemplate
-Selenium Automation Template is a project that allows you to download and quickly launch a automation tool using Selenium!
+# Selenium Automation Template
+
+## An easy-to-download and setup build for a Selenium automation tool.
+
+<p align="center">  <img src="https://img.shields.io/badge/Latest_Version-1.0.0-red?labelColor=2a2a2a" alt="Static Badge"> <a href="http://example.com">  <img src="https://img.shields.io/badge/Download_Latest_Version-%E2%96%BC-red?labelColor=2a2a2a" alt="Download"> </a> </p>
+
+### Download Service
+* Our download service doesn't use DownGit at all. This is because we are using GitHub API!
+
+### This project includes 
+* a file to install the needed files
+* it also comes with a batch script to run it quickly, as well as rerunning it without having to reopen the batch script
+* a folder named extras, script snippets and some examples and how tos for things 
+
+### Imports Set Up On This
+* Example
+
+###  Credit Goes To
+* **NeuralNine** on YouTube - I made this watching a video posted by the user.
